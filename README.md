@@ -1,5 +1,6 @@
-# DateTime Picker by Curious Solutions
-Responsive flat design [jQeury DateTime Picker](http://curioussolutions.github.io/DateTimePicker) plugin for Web & Mobile
+# DateTime Picker
+
+Responsive flat design [jQeury DateTime Picker plugin](http://curioussolutions.github.io/DateTimePicker) for Web & Mobile by [Curious Solutions](http://curioussolutions.in/), packaged for Meteor. Github: https://github.com/CuriousSolutions/DateTimePicker
 
 ### Installation
 
