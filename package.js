@@ -1,6 +1,6 @@
 Package.describe({
   name: 'yn5:curious-datetimepicker',
-  version: '0.1.7',
+  version: '0.1.7_1',
   summary: 'Responsive flat design jQuery DateTime Picker plugin for Web & Mobile',
   git: 'https://github.com/yn5/curious-datetimepicker',
   documentation: 'README.md'
